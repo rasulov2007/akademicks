@@ -1,0 +1,160 @@
+* {
+
+}
+
+.itimg {
+    top: 35px;
+    width: 400px;
+    height: 200px;
+}
+
+.it img:hover {
+    opacity: 0;
+}
+
+.h3 {
+    position: absolute;
+    left: 30px;
+}
+
+.it1 {
+    position: absolute;
+    top: 40px;
+    left: 20px;
+}
+
+.biz {
+    text-align: center;
+}
+
+.robat {
+    position: absolute;
+
+}
+
+
+.h2 {
+    position: absolute;
+    top: 5px;
+    left: 600px;
+}
+
+p.robat1 {
+    position: absolute;
+    top: 35px;
+    left: 550px;
+}
+
+.robatimg {
+
+    width: 400px;
+    height: 300px;
+    opacity: 0.7;
+}
+
+.img23 {
+
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    top: 50px;
+    left: 550px;
+}
+
+.img23:hover {
+    opacity: 0;
+}
+/*matem*/
+
+
+.matem {
+    position: absolute;
+    top: 350px;
+    left: 610px;
+
+}
+
+.img24 {
+    width: 400px;
+    height: 300px;
+    right: 550px;
+    opacity: 0.7;
+}
+.img24:hover{
+    opacity: 0;
+}
+.matem1{
+    position: absolute;
+    top: 400px;
+    left: 550px;
+}
+
+.ing{
+    position: absolute;
+    top: 350px;
+    left: 110px;
+}
+.ingtili{
+    position: absolute;
+    top: 400px;
+
+}
+.ielts2{
+    position: absolute;
+    top: 2350px;
+    left: 350px;
+}
+.ielts1{
+    position: absolute;
+    top: 2290px;
+    left: 450px;
+}
+.oxiri1{
+    position: absolute;
+    top: 2500px;
+
+}
+.oson{
+
+    color: #6767f5;
+}
+
+.container {
+    box-sizing: border-box;
+    margin: 35px;
+}
+
+body img {
+
+}
+
+body div ul {
+
+
+}
+
+body div ul li {
+    padding: 10px;
+    padding-right: 20px;
+}
+
+body li:hover {
+    color: #f1f1f1;
+
+
+}
+
+.active {
+
+}
+
+.active:hover {
+
+}
+
+li {
+    display: inline;
+}
+
+
+

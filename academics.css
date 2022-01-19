@@ -1,0 +1,64 @@
+* {
+
+}
+
+body {
+    background-color: #d2d2d2;
+
+}
+
+.academicks {
+    text-align: center;
+    margin: 0px;
+    padding: 0px 5px 0px 0px;
+
+
+}
+
+.reg {
+    background-color: white;
+    padding: 80px;
+    margin: 350px 300px 350px 250px;
+    border-radius: 10px;
+
+}
+
+.fname {
+
+    height: 30px;
+    border: none;
+    background-color: #d2d2d2;
+    width: 200px;
+}
+
+.lname {
+    height: 30px;
+    border: none;
+    background-color: #d2d2d2;
+    width: 200px;
+}
+
+.sumbit {
+    border-radius: 10px;
+    height: 30px;
+    background-color: #0e770e;
+    border: none;
+    width: 200px;
+}
+
+img {
+    border-radius: 10px;
+    height: 35px;
+    margin: 10px;
+
+}
+
+.open a{
+    text-decoration:none;
+    color: blue;
+}
+.open a:nth-child(1){
+    color: #0e770e;
+}
+
+

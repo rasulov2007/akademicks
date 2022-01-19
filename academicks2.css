@@ -1,0 +1,261 @@
+* {
+
+}
+
+.link {
+    list-style-type: none;
+    position: absolute;
+    top: 20px;
+    left: 450px;
+
+
+}
+
+a {
+    text-decoration: none;
+    color:  #0000ff;
+}
+
+li {
+    display: inline;
+    margin: 50px;
+
+}
+
+a:hover {
+    color:black;
+
+
+}
+
+.jpg {
+    position: absolute;
+    top: 10px;
+    left: 100px;
+
+}
+
+.organish {
+    position: absolute;
+    top: 150px;
+    left: 110px;
+    font-size: 20px;
+}
+
+h1 {
+    color: #2929d6;
+}
+
+.z {
+    position: absolute;
+    top: 110px;
+    color: black;
+
+}
+
+.jpg1 {
+    position: absolute;
+    top: 75px;
+    left: 800px;
+}
+
+.fa-sign-in-alt {
+    position: absolute;
+    top: 2px;
+    left: 400px;
+}
+.odat{
+    position: absolute;
+    top: 450px;
+    left: 110px;
+    background-color: #f6f4f4;
+    padding: 40px 60px 40px 60px;
+}
+.talim{
+
+    position: relative;
+    top: 1px;
+    left: 110px;
+}
+.odat:hover{
+    background-color: #e2e2e7;
+}
+.odat2{
+    position: absolute;
+    top: 450px;
+    left: 550px;
+    background-color: #f6f4f4;
+    padding: 40px 60px 40px 60px;
+}
+.talim1{
+    position:relative;
+    top: 1px;
+    left:110px;
+}
+.odat2:hover{
+    background-color: #e2e2e7;
+}
+.imkon{
+    position: absolute;
+    top: 670px;
+    left: 110px;
+    background-color: #f6f4f4;
+    padding: 40px 60px 40px 60px;
+    width: 730px;
+}
+.fa-lightbulb{
+    position: absolute;
+    top: 30px;
+    left: 810px;
+}
+
+.img59{
+    position: absolute;
+    top: 2px;
+    left: 550px;
+}
+
+
+
+
+/*matem*/
+
+.matematik1{
+    position: absolute;
+    top: 910px;
+    left: 110px;
+    background-color: #f6f4f4;
+    padding: 60px 250px 40px 60px;
+}
+.son{
+    font-size: 10px;
+    opacity: 0.6;
+
+}
+.matematik1:hover{
+    background-color: #e2e2e7;
+}
+
+.fa-calculator{
+    padding: 30px;
+    position: absolute;
+    top: 1px;
+    left:290px;
+}
+.fa-calculator:hover{
+    color: #2929d6;
+
+}
+.it{
+    position: absolute;
+    top: 910px;
+    left: 560px;
+    background-color: #f6f4f4;
+    padding: 60px 210px 40px 60px;
+}
+.it2{
+    font-size: 10px;
+    opacity: 0.6;
+}
+.it:hover{
+    background-color: #e2e2e7;
+}
+.ingliz{
+    position: absolute;
+    top: 1090px;
+    left: 110px;
+    background-color: #f6f4f4;
+    padding: 60px 270px 40px 60px;
+}
+.ing2{
+    font-size: 10px;
+    opacity: 0.6;
+}
+.ingliz:hover{
+    background-color: #e2e2e7;
+}
+.robota{
+    position: absolute;
+    top: 1090px;
+    left: 560px;
+    background-color: #f6f4f4;
+    padding: 60px 230px 40px 40px;
+}
+.robot{
+    opacity: 0.6;
+    font-size: 10px;
+
+}
+.robota:hover{
+    background-color: #e2e2e7;
+}
+.ielts4{
+    position: absolute;
+    top: 1260px;
+    left: 110px;
+    background-color: #f6f3f3;
+    padding: 60px 765px 40px 40px;
+}
+.iel{
+    opacity: 0.6;
+    font-size: 10px;
+}
+.jpg50{
+    position: absolute;
+    top: 10px;
+    left: 450px;
+}
+.imtiyoz1{
+    position: absolute;
+    top: 1430px;
+    left: 110px;
+    background-color: #f6f4f4;
+    padding: 100px 375px 40px 40px;
+}
+.pul{
+    position: absolute;
+    top: 10px;
+    left: 520px ;
+}
+.talaba{
+    position: absolute;
+    top: 1680px;
+    left: 110px;
+    background-color: #f6f4f4;
+    padding: 100px 470px 40px 40px;
+}
+.talaba12{
+    position: absolute;
+    top: 10px;
+    left: 480px;
+}
+.fa-book-reader{
+    position: absolute;
+    top: 50px;
+    border-radius: 10px;
+    color: #2929d6;
+}
+.manzil1{
+    position: absolute;
+    top: 1950px;
+    left: 110px;
+}
+.manzil2{
+    position: absolute;
+    top: 2000px;
+    left: 110px;
+    opacity: 0.6;
+
+}
+.manzil2:hover{
+    color: #2929d6;
+}
+.manzil3{
+    position: absolute;
+    top: 1980px;
+    left: 110px;
+    opacity: 0.6;
+}
+.manzil3:hover{
+    color: #2929d6;
+}

@@ -1,0 +1,79 @@
+* {
+
+}
+.fullcours{
+
+}
+.head {
+    background-color: #efecec;
+    padding: 30px 200px 210px 20px;
+    position: absolute;
+    left: 10px;
+
+}
+
+a {
+    text-decoration: none;
+}
+.cours{
+    text-decoration: #2929d6;
+    border-radius: 10px;
+    padding: 5px;
+    border-color:#efecec ;
+}
+.cours:hover{
+    border: 1px solid;
+    padding: 7px;
+    box-shadow: 5px 10px #efecec;
+    color:#efecec ;
+}
+.coursrobot1{
+    text-decoration: #2929d6;
+    border-radius: 10px;
+    padding: 5px;
+    border-color:#efecec ;
+
+}
+.coursrobot1:hover{
+    border: 1px solid;
+    padding: 7px;
+    box-shadow: 5px 10px #efecec;
+    color:#efecec ;
+}
+.coursenglish1{
+    text-decoration: #2929d6;
+    border-radius: 10px;
+    padding: 5px;
+    border-color:#efecec ;
+}
+.coursenglish1:hover{
+    border: 1px solid;
+    padding: 7px;
+    box-shadow: 5px 10px #efecec;
+    color:#efecec ;
+}
+.coursmatem1{
+    text-decoration: #2929d6;
+    border-radius: 10px;
+    padding: 5px;
+    border-color:#efecec ;
+
+}
+.coursmatem1:hover{
+    border: 1px solid;
+    padding: 7px;
+    box-shadow: 5px 10px #efecec;
+    color:#efecec ;
+}
+.coursielts{
+    text-decoration: #2929d6;
+    border-radius: 10px;
+    padding: 5px;
+    border-color:#efecec ;
+}
+.coursielts:hover{
+    border: 1px solid;
+    padding: 7px;
+    box-shadow: 5px 10px #efecec;
+    color:#efecec ;
+}
